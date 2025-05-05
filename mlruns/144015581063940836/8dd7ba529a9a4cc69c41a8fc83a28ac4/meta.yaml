@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/144015581063940836/8dd7ba529a9a4cc69c41a8fc83a28ac4/artifacts
+end_time: 1746458282769
+entry_point_name: ''
+experiment_id: '144015581063940836'
+lifecycle_stage: active
+run_id: 8dd7ba529a9a4cc69c41a8fc83a28ac4
+run_name: carefree-tern-164
+run_uuid: 8dd7ba529a9a4cc69c41a8fc83a28ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746458275332
+status: 3
+tags: []
+user_id: Darrin DeYoung
