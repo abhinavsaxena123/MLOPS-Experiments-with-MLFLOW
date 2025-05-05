@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/26875069d85d4fd8985048e8ce88d8a8/artifacts
+end_time: 1746461282547
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: 26875069d85d4fd8985048e8ce88d8a8
+run_name: welcoming-hound-807
+run_uuid: 26875069d85d4fd8985048e8ce88d8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461282449
+status: 3
+tags: []
+user_id: Darrin DeYoung

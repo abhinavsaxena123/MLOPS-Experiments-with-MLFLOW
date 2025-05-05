@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/5d7237c4b2254f4bac8cd17461189baa/artifacts
+end_time: 1746461508488
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: 5d7237c4b2254f4bac8cd17461189baa
+run_name: amazing-moose-19
+run_uuid: 5d7237c4b2254f4bac8cd17461189baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461508396
+status: 3
+tags: []
+user_id: Darrin DeYoung

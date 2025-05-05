@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/e63be648ea5f4ebaaa8f79081a1339a7/artifacts
+end_time: 1746461508677
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: e63be648ea5f4ebaaa8f79081a1339a7
+run_name: clumsy-foal-252
+run_uuid: e63be648ea5f4ebaaa8f79081a1339a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461508591
+status: 3
+tags: []
+user_id: Darrin DeYoung

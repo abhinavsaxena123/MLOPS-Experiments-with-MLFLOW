@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/a9502822fb524beda61f1edf136295be/artifacts
+end_time: 1746461282641
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: a9502822fb524beda61f1edf136295be
+run_name: languid-fox-217
+run_uuid: a9502822fb524beda61f1edf136295be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461282555
+status: 3
+tags: []
+user_id: Darrin DeYoung

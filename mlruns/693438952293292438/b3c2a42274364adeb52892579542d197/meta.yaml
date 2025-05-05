@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/b3c2a42274364adeb52892579542d197/artifacts
+end_time: 1746461508387
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: b3c2a42274364adeb52892579542d197
+run_name: gaudy-hen-420
+run_uuid: b3c2a42274364adeb52892579542d197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461508277
+status: 3
+tags: []
+user_id: Darrin DeYoung

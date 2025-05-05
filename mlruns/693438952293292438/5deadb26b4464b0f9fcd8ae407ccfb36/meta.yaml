@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/5deadb26b4464b0f9fcd8ae407ccfb36/artifacts
+end_time: 1746461282440
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: 5deadb26b4464b0f9fcd8ae407ccfb36
+run_name: aged-bird-182
+run_uuid: 5deadb26b4464b0f9fcd8ae407ccfb36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461282342
+status: 3
+tags: []
+user_id: Darrin DeYoung

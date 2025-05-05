@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/ba2fdb2cc4204268bc9cb9837ef47334/artifacts
+end_time: 1746461292153
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: ba2fdb2cc4204268bc9cb9837ef47334
+run_name: traveling-goose-530
+run_uuid: ba2fdb2cc4204268bc9cb9837ef47334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461273284
+status: 3
+tags: []
+user_id: Darrin DeYoung

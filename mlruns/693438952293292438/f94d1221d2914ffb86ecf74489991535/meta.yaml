@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/f94d1221d2914ffb86ecf74489991535/artifacts
+end_time: 1746461282331
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: f94d1221d2914ffb86ecf74489991535
+run_name: amazing-sheep-181
+run_uuid: f94d1221d2914ffb86ecf74489991535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461282241
+status: 3
+tags: []
+user_id: Darrin DeYoung

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/81edc464cabe41ff9fbb5be39fa2c2a3/artifacts
+end_time: 1746461507991
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: 81edc464cabe41ff9fbb5be39fa2c2a3
+run_name: nimble-ape-144
+run_uuid: 81edc464cabe41ff9fbb5be39fa2c2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461507865
+status: 3
+tags: []
+user_id: Darrin DeYoung

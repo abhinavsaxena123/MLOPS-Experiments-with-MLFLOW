@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/22fd34b7f98640dc808c2cc2189432b3/artifacts
+end_time: 1746461507853
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: 22fd34b7f98640dc808c2cc2189432b3
+run_name: delicate-shrew-528
+run_uuid: 22fd34b7f98640dc808c2cc2189432b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461507725
+status: 3
+tags: []
+user_id: Darrin DeYoung

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/c76f8906cbea4237b48f08cc6d554d71/artifacts
+end_time: 1746461282796
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: c76f8906cbea4237b48f08cc6d554d71
+run_name: learned-conch-471
+run_uuid: c76f8906cbea4237b48f08cc6d554d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461282749
+status: 3
+tags: []
+user_id: Darrin DeYoung

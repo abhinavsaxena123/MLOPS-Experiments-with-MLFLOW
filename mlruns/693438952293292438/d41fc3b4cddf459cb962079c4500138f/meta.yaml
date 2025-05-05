@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Darrin%20DeYoung/Desktop/DS_THEORY/MLOps/MLOPS-Experiments-with-MLFLOW/mlruns/693438952293292438/d41fc3b4cddf459cb962079c4500138f/artifacts
+end_time: 1746461282230
+entry_point_name: ''
+experiment_id: '693438952293292438'
+lifecycle_stage: active
+run_id: d41fc3b4cddf459cb962079c4500138f
+run_name: silent-grouse-42
+run_uuid: d41fc3b4cddf459cb962079c4500138f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746461282120
+status: 3
+tags: []
+user_id: Darrin DeYoung
